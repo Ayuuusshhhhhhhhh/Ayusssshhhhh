@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush
-- 👀 I’m interested in coding(knowledge in C, HTML, MySql)
+- 👀 I’m interested in coding(knowledge in C, HTML, MySql, CSS, Javascript)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me email: ayushbaranwal2004@gmail.com
