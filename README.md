@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ayushbaranwal2004@gmail.com**
 
-- ⚡ Fun fact **They say coding is stress-free. 50-50 chances, right?**
+- ⚡ Fun fact: **They say coding is stress-free. 50-50 chances, right?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
